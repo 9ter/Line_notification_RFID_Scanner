@@ -9,8 +9,8 @@
 #define SS_PIN 10
 #define RST_PIN 9
 #define SP_PIN 8
-const char* MY_SSID = "neocluster=2.4G";
-const char* MY_PWD =  "thanyaburi08";
+const char* MY_SSID = "";
+const char* MY_PWD =  "";
 const char WEBSITE[] = "192.168.1.75";
 
 
